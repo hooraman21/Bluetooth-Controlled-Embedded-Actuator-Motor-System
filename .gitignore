@@ -1,0 +1,22 @@
+# === Arduino / IDE Compilation Artifacts ===
+*.hex
+*.elf
+*.eep
+*.lst
+*.o
+*.d
+
+# === Build Directories ===
+build/
+bin/
+out/
+
+# === OS Generated Files ===
+.DS_Store
+Thumbs.db
+
+# === Editor / IDE Settings ===
+.vscode/
+.idea/
+*.swp
+*.bak
