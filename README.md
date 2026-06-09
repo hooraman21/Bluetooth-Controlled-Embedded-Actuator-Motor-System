@@ -1,11 +1,11 @@
 # Bluetooth-Controlled-Embedded-Actuator-Motor-System
 An Arduino Uno (ATmega328P) project integrating an HC-05 module for low-latency wireless communication. Uses a 5V relay for active-LOW isolation and an L298N H-Bridge for bidirectional DC motor logic. Built with modular Embedded C firmware featuring real-time command parsing and terminal status tracking.
-# Embedded Systems — Open Ended Lab (Lab #12)
+# Embedded Systems — Open Ended Lab 
 ## Multi-Peripheral Control via Bluetooth & Serial Interfaces
 
 A hands-on hardware-software implementation demonstrating asynchronous terminal control over high-power peripherals. This system handles bidirectional communication using standard hardware **Serial** and software-defined serial communication (**SoftwareSerial**) to interface an **HC-05/HC-06 Bluetooth module** with an Arduino UNO microcontroller. It allows wireless or tethered real-time operation of an isolated DC motor and an electronic relay switch.
 
-Developed as **Lab #12 (Open Ended Lab)** for the **Embedded Systems** course under the **Department of Computer Engineering** at **Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (PAF-IAST)**.
+Developed as **Lab (Open Ended Lab)** for the **Embedded Systems** course under the **Department of Computer Engineering** at **Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (PAF-IAST)**.
 
 ---
 
